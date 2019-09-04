@@ -34,3 +34,11 @@
     └── index.tpl
 ```
 
+## bee工具
+
+```
+go get github.com/beego/bee
+```
+
+
+
